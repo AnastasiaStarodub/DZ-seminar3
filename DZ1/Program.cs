@@ -12,11 +12,11 @@ else
 
     if (number [0] == number [4] && number [1] == number [3])
     {
-        Console.Write("Число является палиндромом");
+        Console.Write("Число "+ number +" является палиндромом");
     }
     else
     {
-        Console.Write("Число не является палиндромом");
+        Console.Write("Число "+ number +" не является палиндромом");
     }
 }
 
